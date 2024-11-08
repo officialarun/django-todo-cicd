@@ -1,4 +1,4 @@
-#!/home/officialarun/Desktop/TODO_APP/shreys7-django-todo/myenv/bin/python3
+#!/home/ubuntu/shreys7-django-todo/myenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
